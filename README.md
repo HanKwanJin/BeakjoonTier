@@ -11,7 +11,7 @@
 
 ## Blog
 <p>
- <a href="https://velog.io/@"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@"/>
+ <a href="https://velog.io/@rhkswls98"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@rhkswls98"/>
 <a href="https://www.instagram.com/kwandong_2/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/kwandong_2/"/></a>
 </p>
 
