@@ -16,7 +16,5 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=HanKwanJin&theme=chalk&row=1&column=1&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-<br><br>
-<img align='center' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rhkswls98">
   
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanKwanJin&count_bg=%237c97c2&title_bg=%2386757E&icon=github.svg&icon_color=%23ffffff&title=hits&edge_flat=true"/></a>
