@@ -1,5 +1,4 @@
-![readme_baner](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FvPjtm%2FbtrnPCw0qfk%2F4DMz8dwIfFgcR0fWfhzW1k%2Fimg.png)
- 
+
 ## **Tech Stack** 
 <p>  
 <img src="https://img.shields.io/badge/android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
