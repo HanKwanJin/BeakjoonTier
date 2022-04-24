@@ -16,4 +16,3 @@
 <a href="https://www.instagram.com/hankwanjin"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hankwanjin/"/></a>
 </p>    
  
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHanKwanJin&count_bg=%237c97c2&title_bg=%2386757E&icon=github.svg&icon_color=%23ffffff&title=hits&edge_flat=true"/></a>
