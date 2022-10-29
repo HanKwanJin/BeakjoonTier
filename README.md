@@ -26,3 +26,10 @@
 ## 📈 my github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hankwanjin&show_icons=true&theme=gotham" alt="hankwanjin" />
+
+<div align = "center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hankwanjin&layout=compact&theme=tokyonight)&nbsp;&nbsp;&nbsp;
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhkswls98)](https://solved.ac/rhkswls98)
+
+</div>
