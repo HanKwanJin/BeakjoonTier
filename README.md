@@ -7,8 +7,6 @@
 - 🌱 I’m currently learning JAVA / Spring / MySQL
 - 🚀 How to reach me: rhkswls98@kakao.com
 
-<br>
-
 ## **⚡ My tech stack** 
 
 ![JAVA](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white)
@@ -20,13 +18,9 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
-<br>
-
 ## 🐾 Activity
  - [2022.03~2022.08] University MakeUs Challenge IT 연합 동아리 2기 인하대학교 Android 파트 1팀과 로이드 팀 스터디 리더
  - [2022.09~2023.02] University MakeUs Challenge IT 연합 동아리 3기 인하대학교 Server-Spring 파트 에러자바조 스터디 리더
-
-<br>
 
 ## 📈 my github stats
 
