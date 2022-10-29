@@ -1,18 +1,33 @@
+## **Hi, I'm Dong Dong** <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-## **Tech Stack** 
-<p>  
-<img src="https://img.shields.io/badge/android Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
- <br>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
- <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
- <img src="https://img.shields.io/badge/firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white">
- </p>
- 
-## Blog  
-<p>
- <a href="https://velog.io/@rhkswls98"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@rhkswls98"/>
-<a href="https://www.instagram.com/hankwanjin"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hankwanjin/"/></a>
-</p>    
- 
+- 😄 I'm HanKwanJin, people call me Dong Dong
+- 💻 I'm a student who is interested in back-end development.
+- 🌏 I'm from South Korea and living in Seoul.
+- 🔭 I'm currently majoring in computer engineering at Inha University.
+- 🌱 I’m currently learning JAVA / Spring / MySQL
+- 🚀 How to reach me: rhkswls98@kakao.com
+
+<br>
+
+## **⚡ My tech stack** 
+
+![JAVA](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+
+<br>
+
+## 🐾 Activity
+ - [2022.03~2022.08] University MakeUs Challenge IT 연합 동아리 2기 인하대학교 Android 파트 1팀과 로이드 팀 스터디 리더
+ - [2022.09~2023.02] University MakeUs Challenge IT 연합 동아리 3기 인하대학교 Server-Spring 파트 에러자바조 스터디 리더
+
+<br>
+
+## 📈 my github stats
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=hankwanjin&show_icons=true&theme=gotham" alt="hankwanjin" />
