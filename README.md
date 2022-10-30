@@ -13,6 +13,8 @@
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-CC2EFA?style=flat-square&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android-0080FF?style=flat-square&logo=android&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
