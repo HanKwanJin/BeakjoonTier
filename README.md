@@ -7,10 +7,10 @@
 - 🌱 I’m currently learning JAVA / Spring / MySQL.
 - 🚀 How to reach me: rhkswls98@kakao.com
 
-## 📝 Blog
+<!-- ## 📝 Blog
 
 <a href="https://velog.io/@rhkswls98"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white"></a>
-
+ -->
 ## **⚡ My tech stack** 
 
 ![JAVA](https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=java&logoColor=white)
