@@ -29,6 +29,9 @@
  - [2022.09~2023.02] University MakeUs Challenge IT 연합 동아리 3기 인하대학교 Server-Spring 파트 '에러자바조' 팀 스터디 리더
 
 &nbsp;&nbsp;&nbsp;
+
+<a href=#><img src="contributions.svg"></a>
+
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhkswls98)](https://solved.ac/rhkswls98)
 
 </div>
