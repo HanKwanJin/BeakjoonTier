@@ -30,8 +30,6 @@
 
 &nbsp;&nbsp;&nbsp;
 
-<a href=#><img src="contributions.svg"></a>
-
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rhkswls98)](https://solved.ac/rhkswls98)
 
 </div>
